@@ -1,8 +1,4 @@
 # backup_employer_support.R
-About employer support
-@⁨#M.S⁩ : backup_employer_support.R
-r
-# backup_employer_support.R
 # Purpose: check backup research questions about employer support
 # Backup 1: care_options vs treatment
 # Backup 2: benefits vs treatment
